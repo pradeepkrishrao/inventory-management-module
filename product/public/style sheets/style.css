@@ -4,9 +4,9 @@ a{
   body {
  padding: 10px;
  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
- }
-color: #555555;
-   .container {
+ color: #555555;
+}
+ .container {
  padding: 20px;
  background-color: rosybrown;
  width: 530px;
@@ -21,10 +21,10 @@ color: #555555;
  background-color: #777777;
  border-radius: 6px;
  color: #FFFFFF;
-  } 127
+  }
 .container h4 a:hover, .container table tr td button:hover {
-background-color: mistyrose;
-     color: #000000;
+ background-color: mistyrose;
+ color: #000000;
 }
 
 .container table {
@@ -65,7 +65,7 @@ background-color: mistyrose;
 
  .container .list-table {
      width: 360px;
-     border: solid 2px rgb(241,
+     border: solid 2px rgb(241, 247, 155);
      border-spacing: 0;
  }
 
